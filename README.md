@@ -35,7 +35,7 @@ It demonstrates the fundamentals of computer graphics with realistic **shading, 
 
 📸 Output
 
-   ![alt text](https://github.com/akshatkarnwal/Raytracer/blob/f1b829c96c8236fc886d0925b9ef467b74dd8473/raytracer_ss.png)
+   ![Alt text](https://github.com/akshatkarnwal/Raytracer/blob/f1b829c96c8236fc886d0925b9ef467b74dd8473/raytracer_ss.png?raw=true)
 
 📌 Future Improvements
    - Add support for planes and complex geometry

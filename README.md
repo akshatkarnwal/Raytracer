@@ -33,10 +33,6 @@ It demonstrates the fundamentals of computer graphics with realistic **shading, 
    g++ main.cpp -o raytracer -lSDL2 -std=c++17
    ./raytracer
 
-📸 Output
-
-   ![Alt text](https://github.com/akshatkarnwal/Raytracer/blob/f1b829c96c8236fc886d0925b9ef467b74dd8473/raytracer_ss.png?raw=true)
-
 📌 Future Improvements
    - Add support for planes and complex geometry
    - Implement refraction and materials

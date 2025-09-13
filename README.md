@@ -35,7 +35,7 @@ It demonstrates the fundamentals of computer graphics with realistic **shading, 
 
 📸 Output
 
-   <img width="804" height="638" alt="image" src="https://github.com/user-attachments/assets/012d8edc-3c9f-43b6-8602-ae5dd03b82f2" />
+   ![alt text](<img width="804" height="638" alt="image" src="https://github.com/user-attachments/assets/012d8edc-3c9f-43b6-8602-ae5dd03b82f2" />)
 
 📌 Future Improvements
    - Add support for planes and complex geometry
